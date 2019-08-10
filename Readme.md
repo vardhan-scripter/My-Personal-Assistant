@@ -16,8 +16,8 @@
 
 ### 4. Try another command as test :
 
-![A test image](images/4.png)
+![A test image](Images/4.png)
 
 ### 5. We can add more commands and outputs in JS/app.js file shown in below image:
 
-![A test image](images/5.png)
+![A test image](Images/5.png)
